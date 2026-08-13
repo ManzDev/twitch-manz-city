@@ -1,0 +1,1 @@
+- Debes conectar al canal `#manzdev` de Twitch.

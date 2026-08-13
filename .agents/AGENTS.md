@@ -1,0 +1,6 @@
+- No utilizo `npm`, utilizo `pnpm`.
+- Puedes usar `codegraph` para buscar en el código.
+- No levantes servidores de desarrollo, ni hagas builds. Avísame y los hago yo.
+- Vamos a utilizar `mtmi` para conectar con el chat de Twitch. Más información en @.agents/mtmi.md
+- Vamos a utilizar `three.js` para crear la ciudad y todos los elementos 3D. Más información en @.agents/threejs.md
+- Las directrices principales del proyecto van a estar en @.agents/specs.md
